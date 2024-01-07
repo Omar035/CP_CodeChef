@@ -41,10 +41,10 @@ int main () {
             f = 1
         */
 
-        int arr[6] = {c/2, o, d, e/2, h, f};
+        int arr2[6] = {c/2, o, d, e/2, h, f};
 
-        sort(arr, arr+6);
+        sort(arr2, arr2+6);
 
-        cout << arr[0] << endl;
+        cout << arr2[0] << endl;
     }
 }
